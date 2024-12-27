@@ -64,7 +64,7 @@ The following dependencies are included in the project:
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/vitrilukito/PR19
+   git clone https://github.com/vitrilukito/Swag-Labs-Web-UI-Automation-Testing-Framework
 2. Install Gradle:
    Ensure you have Gradle installed on your machine. You can check if Gradle is installed by running: gradle -v. If not, you can install it by following the instructions on the [Gradle website](https://gradle.org/)
 3. Install IntelliJIDEA.
