@@ -172,9 +172,9 @@ The WebPage class of the above test case is as below:
 
 
 The test cases are presented in 5 different files. You can view all the test cases here:
-- [CartWeb.feature](src/test/resources/features/CartWeb.feature)
-- [CheckoutWeb.feature](src/test/resources/features/CheckoutWeb.feature)
-- [LoginWeb.feature](src/test/resources/features/LoginWeb.feature)
-- [ProductWeb.feature](src/test/resources/features/ProductWeb.feature)
-- [SecurityWeb.feature](src/test/resources/features/SecurityWeb.feature)
+- [CartWeb.feature](src/test/resources/features/Cart.feature)
+- [CheckoutWeb.feature](src/test/resources/features/Checkout.feature)
+- [LoginWeb.feature](src/test/resources/features/Login.feature)
+- [ProductWeb.feature](src/test/resources/features/Product.feature)
+- [SecurityWeb.feature](src/test/resources/features/Security.feature)
 
