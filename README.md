@@ -23,11 +23,11 @@ This repository contains the web UI automation test project for the Swag Labs e-
 ## Project Structure
 
 Here is the breakdown of the project structure:
-- **LoginWeb.feature**: Contains scenarios for testing the login functionality, including valid and invalid login attempts.
-- **ProductWeb.feature**: Tests the product page, such as displaying available products and adding them to the cart.
-- **CheckoutWeb.feature**: Scenarios that verify the checkout process, handling successful and empty cart scenarios.
-- **CartWeb.feature**: Tests the shopping cart functionalities, including viewing items and removing products.
-- **SecurityWeb.feature**: Ensures that the account is secured and will be automatically logged out after a certain period of inactivity.
+- **Login.feature**: Contains scenarios for testing the login functionality, including valid and invalid login attempts.
+- **Product.feature**: Tests the product page, such as displaying available products and adding them to the cart.
+- **Checkout.feature**: Scenarios that verify the checkout process, handling successful and empty cart scenarios.
+- **Cart.feature**: Tests the shopping cart functionalities, including viewing items and removing products.
+- **Security.feature**: Ensures that the account is secured and will be automatically logged out after a certain period of inactivity.
 - **Models**: Encapsulate the interactions with the UI elements on each page, providing methods to perform actions (like clicking buttons, entering text) and verify page content.
 - **Utility**: This includes classes for managing the WebDriver instance, handling configuration settings, and providing reusable methods for various tasks.
 - **WebPage**: Each class defines the elements on the page and the methods that encapsulate interactions with those elements. The methods within these classes are called by step definitions in the Cucumber tests.
@@ -54,7 +54,7 @@ The following dependencies are included in the project:
 - testImplementation 'org.junit.jupiter:junit-jupiter'
 - testImplementation 'org.junit.vintage:junit-vintage-engine:5.7.2'
 - implementation group: 'io.cucumber', name: 'cucumber-java', version: '7.20.1'
-- implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.25.0'
+- implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.27.0'
 - testImplementation group: 'junit', name: 'junit', version: '4.13.2'
 - testImplementation("io.github.bonigarcia:webdrivermanager:5.9.2")
 - testImplementation group: 'io.cucumber', name: 'cucumber-junit', version: '7.20.1'
@@ -121,7 +121,7 @@ The WebPage class is used to interact with the login page:
 <img width="492" alt="image" src="https://github.com/user-attachments/assets/debe37ea-e422-4814-9399-ae6823a943e3">
 
 
-- **Negative Test Cases**: Verify the API's behavior with invalid inputs, invalid usernames, or missing required fields.
+- **Negative Test Cases**: Verify the web functionality with invalid inputs, invalid usernames, or missing required fields.
 
 **Sample of negative test case:**
 
