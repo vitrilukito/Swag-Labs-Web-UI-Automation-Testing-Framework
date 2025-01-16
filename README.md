@@ -104,21 +104,25 @@ The project includes a total of 5 pages and 50 test cases categorized into:
 **Sample of positive test case:**
 
 
-<img width="407" alt="image" src="https://github.com/user-attachments/assets/8b4e1d5b-2d5a-4666-9b5b-76fd80299fa5">
+<img width="411" alt="image" src="https://github.com/user-attachments/assets/a4044047-d650-4deb-8d00-eaf4ea33686c" />
+
+
 
 
 **Step Definitions:**
 Here are the step definitions that implement the above test case:
 
 
-<img width="706" alt="image" src="https://github.com/user-attachments/assets/b786f2e3-b1f8-4cc9-8833-fa8ec3854c24">
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/f2f67a16-e13d-4010-a098-743dc5050e25" />
+
 
 
 **Page Object:**
 The WebPage class is used to interact with the login page:
 
 
-<img width="492" alt="image" src="https://github.com/user-attachments/assets/debe37ea-e422-4814-9399-ae6823a943e3">
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/03929cac-1f8d-442a-bc80-df41fd392f5c" />
+
 
 
 - **Negative Test Cases**: Verify the web functionality with invalid inputs, invalid usernames, or missing required fields.
@@ -126,7 +130,7 @@ The WebPage class is used to interact with the login page:
 **Sample of negative test case:**
 
 
-<img width="502" alt="image" src="https://github.com/user-attachments/assets/a39ec7d0-2db7-4819-a817-59317db7800d">
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/7ed852b4-a4a9-4be9-b958-e374bd1911bf" />
 
 
 
@@ -134,7 +138,7 @@ The WebPage class is used to interact with the login page:
 Here are the step definitions that implement the above test case:
 
 
-<img width="888" alt="image" src="https://github.com/user-attachments/assets/ef290a3a-b4f2-4c5c-a577-9743018464e2">
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/1ff9e7ff-41a2-4fb2-af1b-7c10f98c8178" />
 
 
 
@@ -142,7 +146,7 @@ Here are the step definitions that implement the above test case:
 The WebPage class of the above test case is as below:
 
 
-<img width="966" alt="image" src="https://github.com/user-attachments/assets/c9e2d516-6b9f-42ed-9377-63feaf5ef562">
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/ef64f34d-8c4c-4fd9-8990-da332886341a" />
 
 
 
@@ -151,7 +155,7 @@ The WebPage class of the above test case is as below:
 **Sample of boundary test case:**
 
 
-<img width="580" alt="image" src="https://github.com/user-attachments/assets/5d105177-c5c5-4ced-b35c-defa757a5807">
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/33e7c25c-7330-457f-a5f4-53fbd68b37d3" />
 
 
 
@@ -159,7 +163,7 @@ The WebPage class of the above test case is as below:
 Here are the step definitions that implement the above test case:
 
 
-<img width="879" alt="image" src="https://github.com/user-attachments/assets/93d476d8-0923-40fe-83cc-0690d185e5ae">
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/9b85bf5a-5588-463a-9df5-23b317d16eb4" />
 
 
 
@@ -167,7 +171,7 @@ Here are the step definitions that implement the above test case:
 The WebPage class of the above test case is as below:
 
 
-<img width="973" alt="image" src="https://github.com/user-attachments/assets/5fd46380-b86a-411c-a0b1-bfa010ff591e">
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/804c889c-31d1-45ae-bfbc-1df0ce5b9480" />
 
 
 
